@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Santa Maria, California with a population of over 109k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Santa Maria, California, US",
+  "export_job_id": "89093895-115b-4931-b450-34fb58f403c4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 392108,
+  "location_name": "Santa Maria",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-santa-maria-california-us-sample-392108",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/392108/beamstation_392108_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.76,
+  "sample_records": 8,
+  "sample_sha256": "41907204264bfcab7a13fb17615893cefa0cd691247b01a438823143c248421f",
+  "sample_size_bytes": 39240,
+  "total_records": 82,
+  "updated_at": "2026-04-09T11:19:18.845886+00:00"
+}
