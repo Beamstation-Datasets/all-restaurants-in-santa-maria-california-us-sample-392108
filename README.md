@@ -1,6 +1,6 @@
 # All Restaurants in Santa Maria, California, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `392108` |
 | Location | Santa Maria |
 | Category | Restaurants |
-| Full dataset size | 82 records |
-| Free sample size | 8 records (9.76%) |
-| Last export | 2026-04-09T11:19:18.845886+00:00 |
+| Full dataset size | 91 records |
+| Free sample size | 9 records (9.89%) |
+| Last export | 2026-04-16T11:12:16.265318+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-maria-california-us-sample-392108/releases/download/sample-latest/beamstation_392108_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
