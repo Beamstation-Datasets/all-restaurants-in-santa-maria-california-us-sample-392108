@@ -1,12 +1,12 @@
 {
-  "export_job_id": "89093895-115b-4931-b450-34fb58f403c4",
+  "export_job_id": "e029d68f-ed35-4233-80b7-25b02a404568",
   "id_short": 392108,
-  "published_at": "2026-04-12T07:20:19Z",
+  "published_at": "2026-04-19T19:31:50Z",
   "repo_name": "all-restaurants-in-santa-maria-california-us-sample-392108",
   "sample_asset_name": "beamstation_392108_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/392108/beamstation_392108_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "41907204264bfcab7a13fb17615893cefa0cd691247b01a438823143c248421f",
-  "sample_size_bytes": 39240,
-  "total_records": 82
+  "sample_records": 9,
+  "sample_sha256": "da6068aa41362bec824122bcd4ed6974d9a9a08f717c1ddca5c14ec87edc8bf9",
+  "sample_size_bytes": 34260,
+  "total_records": 91
 }
